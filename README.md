@@ -1,5 +1,3 @@
-<h1> Do you love making a lot of hastags at once but hate doing shift+3 everytime? </h1>
+# Do you love making a lot of hastags at once but hate doing shift+3 everytime?
 
-Simply, run the script, put in the words you want as hashtags without the # with space seperating each hashtag.
-
-BAM!
+#### Run the script. Enter the hashtags you want without the #, seperating each word with a space. For example, if you want #Hero #Supervillain, then enter "Hero Supervillain" into the prompt. Enjoy!
